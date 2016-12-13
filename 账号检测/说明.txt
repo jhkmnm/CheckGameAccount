@@ -1,0 +1,11 @@
+﻿1. 登录网站验证账号是否正确
+2. 登录成功后提取账号2个信息:角色名称、综合技能数
+3. 满足一定条件重拨网络
+   a. 每扫描200个换一次
+   b. 与前5个IP重复换一次
+   c. 一个IP登录5个账号换一次
+   
+
+https://secure.runescape.com/m=weblogin/loginform.ws?mod=www&ssl=0&dest=community
+shane_cahalan@yahoo.com
+poopballs2
